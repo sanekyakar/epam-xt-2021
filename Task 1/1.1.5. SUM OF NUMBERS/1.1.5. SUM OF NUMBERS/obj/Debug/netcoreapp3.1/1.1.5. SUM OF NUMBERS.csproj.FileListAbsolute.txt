@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.exe
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.deps.json
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.runtimeconfig.json
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.dll
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.pdb
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.dll
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.pdb
+C:\Users\Alexandr\source\repos\1.1.5. SUM OF NUMBERS\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.genruntimeconfig.cache

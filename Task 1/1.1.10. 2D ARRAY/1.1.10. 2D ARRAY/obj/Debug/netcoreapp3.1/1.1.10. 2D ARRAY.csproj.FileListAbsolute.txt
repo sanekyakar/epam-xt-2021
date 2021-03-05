@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.exe
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.deps.json
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.runtimeconfig.json
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.dll
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.pdb
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.dll
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.pdb
+C:\Users\Alexandr\source\repos\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\netcoreapp3.1\1.1.10. 2D ARRAY.genruntimeconfig.cache

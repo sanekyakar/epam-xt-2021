@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\bin\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.exe
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\bin\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.deps.json
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\bin\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.runtimeconfig.json
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\bin\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\bin\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.dll
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\bin\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.pdb
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.dll
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.pdb
+C:\Users\Alexandr\source\repos\1.1.7. ARRAY PROCESSING\1.1.7. ARRAY PROCESSING\obj\Debug\netcoreapp3.1\1.1.7. ARRAY PROCESSING.genruntimeconfig.cache

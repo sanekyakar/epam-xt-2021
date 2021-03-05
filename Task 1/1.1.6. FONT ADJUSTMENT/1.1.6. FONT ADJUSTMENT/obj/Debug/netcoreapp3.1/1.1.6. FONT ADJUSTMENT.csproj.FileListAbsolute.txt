@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.exe
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.deps.json
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.runtimeconfig.json
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.dll
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.pdb
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.dll
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.pdb
+C:\Users\Alexandr\source\repos\1.1.6. FONT ADJUSTMENT\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.genruntimeconfig.cache

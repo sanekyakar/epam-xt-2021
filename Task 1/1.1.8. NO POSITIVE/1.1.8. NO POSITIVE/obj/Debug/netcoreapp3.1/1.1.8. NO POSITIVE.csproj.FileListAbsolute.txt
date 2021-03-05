@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\bin\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.exe
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\bin\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.deps.json
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\bin\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.runtimeconfig.json
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\bin\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\bin\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.dll
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\bin\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.pdb
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.dll
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.pdb
+C:\Users\Alexandr\source\repos\1.1.8. NO POSITIVE\1.1.8. NO POSITIVE\obj\Debug\netcoreapp3.1\1.1.8. NO POSITIVE.genruntimeconfig.cache

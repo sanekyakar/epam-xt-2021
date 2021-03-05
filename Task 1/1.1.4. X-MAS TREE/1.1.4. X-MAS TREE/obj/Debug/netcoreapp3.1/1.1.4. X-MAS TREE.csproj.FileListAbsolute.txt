@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\bin\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.exe
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\bin\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.deps.json
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\bin\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.runtimeconfig.json
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\bin\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\bin\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.dll
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\bin\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.pdb
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.dll
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.pdb
+C:\Users\Alexandr\source\repos\1.1.4. X-MAS TREE\1.1.4. X-MAS TREE\obj\Debug\netcoreapp3.1\1.1.4. X-MAS TREE.genruntimeconfig.cache
