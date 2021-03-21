@@ -1,0 +1,5 @@
+D:\xt_net_web-master\2.1.1 MyLibrary\bin\Debug\2.1.1 MyLibrary.dll
+D:\xt_net_web-master\2.1.1 MyLibrary\bin\Debug\2.1.1 MyLibrary.pdb
+D:\xt_net_web-master\2.1.1 MyLibrary\obj\Debug\2.1.1 MyLibrary.csproj.CoreCompileInputs.cache
+D:\xt_net_web-master\2.1.1 MyLibrary\obj\Debug\2.1.1 MyLibrary.dll
+D:\xt_net_web-master\2.1.1 MyLibrary\obj\Debug\2.1.1 MyLibrary.pdb
