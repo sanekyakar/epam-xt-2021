@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexandr\\source\\repos\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj": {}
+    "C:\\epam-xt-2021\\Task 1\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexandr\\source\\repos\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj": {
+    "C:\\epam-xt-2021\\Task 1\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexandr\\source\\repos\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj",
+        "projectUniqueName": "C:\\epam-xt-2021\\Task 1\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj",
         "projectName": "1.1.2. TRIANGLE",
-        "projectPath": "C:\\Users\\Alexandr\\source\\repos\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj",
+        "projectPath": "C:\\epam-xt-2021\\Task 1\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE.csproj",
         "packagesPath": "C:\\Users\\Alexandr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexandr\\source\\repos\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\obj\\",
+        "outputPath": "C:\\epam-xt-2021\\Task 1\\1.1.2. TRIANGLE\\1.1.2. TRIANGLE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
