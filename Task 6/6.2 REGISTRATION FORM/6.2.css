@@ -1,0 +1,46 @@
+.registrationForm{
+    border: 2px solid rgb(5, 112, 161);
+    background-color: rgb(6, 144, 207);
+    padding-left: 20px;
+    width: 400px;
+    height: 260px;
+}
+.registrationLine{
+   border:none;
+   background-color: white;
+   color: white;
+   height: 1px;
+   margin-left: -20px;
+}
+.registrationHeader{
+    color: white;
+    font-weight:200;
+}
+.inputHeader{
+    color: white;
+    margin-bottom: 0px;
+    font-weight:200;
+}
+.emailInput{
+    width: 340px;
+}
+.passwordInput{
+    width: 148px;
+}
+.repeatPassword{
+    margin-left: 190px;
+    margin-top: -62px;
+    padding-bottom: 30px ;
+}
+.sendButton{
+    background-color: rgb(255, 223, 127);
+    padding: 5px;
+    border: none;
+}
+.sendButton:focus{
+    background-color: rgb(255, 203, 45);
+    box-shadow: 3px 3px 5px black;
+}
+input:focus{
+    outline: none;
+}
