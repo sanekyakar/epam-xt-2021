@@ -1,0 +1,25 @@
+﻿@using UserAwards.PL.WEB.Modules
+@{
+    Layout = "~/_AuthLayout.cshtml";
+
+    if (!User.IsInRole("admin"))
+    {
+        Response.Write("У вас нет прав на редактирование");
+        return;
+    }
+
+    var WebPL = new WebUserAwardsPL();
+
+    Guid userId, awardId;
+
+    Guid.TryParse(Request["UserId"], out userId);
+    Guid.TryParse(Request["AwardId"], out awardId);
+
+    if (userId == Guid.Empty && awardId == Guid.Empty)
+    {
+        Response.Write("Что-то пошло не так");
+        return;
+    }
+
+    WebPL.AddAwardToUser(userId, awardId);
+}

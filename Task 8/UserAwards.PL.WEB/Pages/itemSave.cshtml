@@ -1,0 +1,106 @@
+﻿@using UserAwards.PL.WEB.Modules
+@using UserAwards.Entities
+@{
+    Layout = "~/_AuthLayout.cshtml";
+
+    var WebPL = new WebUserAwardsPL();
+
+    string type = Request["Type"];
+
+    Guid id;
+    Guid.TryParse(Request["Id"], out id);
+
+    string name = Request["Name"];
+
+    if (!User.IsInRole("admin") && (User.Identity.Name != name))
+    {
+        Response.Write("У вас нет прав на редактирование");
+        return;
+    }
+
+    string image = Request["Image"];
+    if (image.Length == 0)
+    {
+        image = null;
+    }
+
+    if (type == "user")
+    {
+        var dateArr = Request["DateOfBirth"].Split('-');
+        if (dateArr.Length != 3)
+        {
+            Response.Write("Некорректная дата рождения");
+            return;
+        }
+        int year, mount, day;
+        int.TryParse(dateArr[0], out year);
+        int.TryParse(dateArr[1], out mount);
+        int.TryParse(dateArr[2], out day);
+
+        var birthDay = new DateTime(year, mount, day);
+
+        int age;
+        int.TryParse(Request["Age"].ToString(), out age);
+
+        var password = Request["Password"];
+
+        var user = new User(name, birthDay, age, false, image);
+
+        if (password != "")
+        {
+            WebPL.SetUserPassword(user.Id, password);
+        }
+
+        // Проверки на корректность
+        switch (WebPL.UserCorrectionCheck(user))
+        {
+            case UserCheckStatus.INCORRECT_NAME:
+                Response.Write("Некорректное имя пользователя. Имя должно быть длинной 2-20 символов и состоять из символов английского алфавита, цифр, знаков '_' и '-'.");
+                return;
+            case UserCheckStatus.INCORRECT_DATEOFBIRTH:
+                Response.Write("Некорректная дата рождения");
+                return;
+            case UserCheckStatus.INCORRECT_AGE:
+                Response.Write("Некорректно введен возраст");
+                return;
+        }
+
+        if (id != Guid.Empty)
+        {
+            WebPL.ChangeUserById(id, user);
+        }
+        else
+        {
+            if (WebPL.UserCorrectionCheck(user) == UserCheckStatus.ALLREADY_EXIST)
+            {
+                Response.Write("Пользователь с таким именнем уже присутствует в базе.");
+                return;
+            }
+            WebPL.AddUser(user);
+        }
+    }
+    else
+    {
+        var award = new Award(name, image);
+        switch (WebPL.AwardCorrectionCheck(award))
+        {
+            case AwardCheckStatus.INCORRECT_TITLE:
+                Response.Write("Некорректное название. Название должно быть длинее 2 символов.");
+                return;
+        }
+
+        if (id != Guid.Empty)
+        {
+            WebPL.ChangeAwardById(id, award);
+        }
+        else
+        {
+            if (WebPL.AwardCorrectionCheck(award) == AwardCheckStatus.ALLREADY_EXIST)
+            {
+                Response.Write("Название награды должно быть уникальным.");
+                return;
+            }
+            WebPL.AddAward(award);
+        }
+    }
+}

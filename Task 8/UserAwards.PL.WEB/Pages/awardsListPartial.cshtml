@@ -1,0 +1,28 @@
+﻿@using UserAwards.PL.WEB.Modules
+@{
+    Layout = "~/_AuthLayout.cshtml";
+
+    var WebPL = new WebUserAwardsPL();
+    var awards = WebPL.GetAllAwards();
+
+    string image;
+}
+
+@foreach (var award in awards)
+{
+    if (award.Image == null)
+    {
+        image = "/Images/no_award_image.png"; 
+    }
+    else 
+    {
+        image = award.Image; 
+    }
+    <text>
+        <div class="item border-primary" id="@award.Id">
+            <div class="deleteItem"><button class="btn-sm btn-danger">&times;</button></div>
+            <div class="itemImage"><img class="avatar" src="@image" /></div>
+            <div class="itemName alert-primary">@award.Title</div>
+        </div>
+    </text>
+}

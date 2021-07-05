@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "~/_HeaderLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col"></div>
+    <div class="col-8 text-center mainGroups">
+        <h1>Пользователи</h1>
+        <div class="col-12" id="usersList">
+            <div id="users">
+                @RenderPage("~/Pages/usersListPartial.cshtml")
+            </div>
+            <div>
+                @RenderPage("~/Pages/_addButtonPartial.cshtml")
+            </div>
+        </div>
+    </div>
+    <div class="col"></div>
+</div>
+
+<div class="row">
+    <div class="col"></div>
+    <div class="col-8 text-center mainGroups">
+        <h1>Награды</h1>
+        <div class="col-12" id="awardsList">
+            <div id="awards">
+                @RenderPage("~/Pages/awardsListPartial.cshtml")
+            </div>
+            <div>
+                @RenderPage("~/Pages/_addButtonPartial.cshtml")
+            </div>
+        </div>
+    </div>
+    <div class="col"></div>
+</div>
+
+@RenderPage("~/Pages/_toast.cshtml")
+@RenderPage("~/Pages/_modalItemEditPartial.cshtml")
+@RenderPage("~/Pages/_modalConfirm.cshtml")
+@RenderPage("~/Pages/_modalListItemsToAdd.cshtml")

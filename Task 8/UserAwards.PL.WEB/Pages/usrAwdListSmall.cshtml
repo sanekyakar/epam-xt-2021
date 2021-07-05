@@ -1,0 +1,76 @@
+﻿@using UserAwards.PL.WEB.Modules
+@using UserAwards.Entities
+@using System.Linq
+@{
+    Layout = "~/_AuthLayout.cshtml";
+
+    var WebPL = new WebUserAwardsPL();
+
+    var type = Request["Type"];
+
+    Guid id;
+    Guid.TryParse(Request["Id"], out id);
+    if (id == Guid.Empty)
+    {
+        Response.Write("Некорректные данные");
+        return;
+    }
+
+    dynamic items;
+
+    if (type == "user")
+    {
+        items = WebPL.GetAllAwards();
+    }
+    else
+    {
+        items = WebPL.GetAllUsers();
+    }
+
+    string name;
+    string image;
+    int i = 0;
+}
+
+@foreach (var item in items)
+{
+    if (type == "user")
+    {
+        image = "/Images/no_award_image.png";
+        name = (item as Award).Title;
+        var existingLinkedItems = WebPL.GetAwardsByUserId(id);
+        if (existingLinkedItems.Where(elem => elem.Id == item.Id).Any())
+        {
+            continue;
+        }
+        i++;
+    }
+    else
+    {
+        image = "/Images/no_avatar.png";
+        name = (item as User).Name;
+        var existingLinkedItems = WebPL.GetUsersByAwardId(id);
+        if (existingLinkedItems.Where(elem => elem.Id == item.Id).Any())
+        {
+            continue;
+        }
+        i++;
+    }
+
+    if (item.Image != null)
+    {
+        image = item.Image;
+    }
+
+    <text>
+        <div class="item-to-pick border-primary" id="@item.Id">
+            <div class="item-to-pick-image-wrapper"><img src="@image"></div>
+            <div class="alert-primary item-to-pick-text">@name</div>
+        </div>
+    </text>
+}
+
+@if (i == 0)
+{
+    Response.Write("Нет доступных элементов.");
+}

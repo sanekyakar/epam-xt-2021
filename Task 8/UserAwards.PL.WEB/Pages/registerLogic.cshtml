@@ -1,0 +1,37 @@
+﻿@using UserAwards.PL.WEB.Modules
+@using UserAwards.Entities
+@{
+    var WebPL = new WebUserAwardsPL();
+
+    var name = Request["Login"];
+    var password = Request["Password"];
+    var bithDay = new DateTime(1900, 1, 1);
+    int age = 0;
+    bool isAdmin;
+    bool.TryParse(Request["IsAdmin"], out isAdmin);
+
+    var user = new User(name, bithDay, age, isAdmin);
+
+    switch (WebPL.AddUser(user))
+    {
+        case UserCheckStatus.ALLREADY_EXIST:
+            var existedUser = WebPL.GetUserByName(name);
+            if (existedUser.Password == null)
+            {
+                WebPL.SetUserPassword(existedUser.Id, password);
+                Response.Write("Пароль пользователя задан. Войдите под своим паролем");
+            }
+            else
+            {
+                Response.Write("Пользователь с таким именем уже существует");
+            }
+            return;
+        case UserCheckStatus.CORRECT:
+            WebPL.SetUserPassword(user.Id, password);
+            Response.Write("Успешно зарегистрирован. Войдите под своим паролем.");
+            return;
+        default:
+            Response.Write("Некорректное имя пользователя. Имя должно быть длинной 2-20 символов и состоять из символов английского алфавита, цифр, знаков '_' и '-'.");
+            return;
+    }
+}
